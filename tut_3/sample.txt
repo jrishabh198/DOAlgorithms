@@ -1,0 +1,23 @@
+Input for searching (21,23) in the sample set
+6
+15 20
+10 30
+17 19
+5 20
+12 15
+30 40
+21 23
+
+output : 10 30
+
+Input for searching (14,16) in sample set
+6
+15 20
+10 30
+17 19
+5 20
+12 15
+30 40
+14 16
+
+output : 15 20
